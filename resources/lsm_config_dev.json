@@ -1,0 +1,6 @@
+{
+  "baseDir": "data",
+  "flushThreshold": 3,
+  "maxLevels": 5,
+  "bloomFilterSize": 512
+}

@@ -1,0 +1,7 @@
+{
+  "baseDir": "data",
+  "flushThreshold": 100,
+  "maxLevels": 5,
+  "bloomFilterSize": 1024,
+  "useBlockBasedFormat": true
+}
